@@ -1,5 +1,2 @@
-# data-made
-In God we trust. In data we know
+<img src="https://i.imgur.com/hvM4JEJ.png" width="350"/>
 
-
-<img src="https://imgur.com/a/idAaN" width="350"/>
