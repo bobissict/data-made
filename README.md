@@ -1,9 +1,8 @@
 <img src="logo.png" width="350"/>
 
-![](https://img.shields.io/badge/version-alpha-blue.svg)
-
-
 ### A collection of resources for data driven advertisers
+
+![](https://img.shields.io/badge/version-alpha-blue.svg)
 
 ## Motivation :crystal_ball:
 
