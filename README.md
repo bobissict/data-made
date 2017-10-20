@@ -2,9 +2,15 @@
 
 ### A collection of resources for data driven advertisers
 
-![](https://img.shields.io/badge/version-alpha-blue.svg)
+![](https://img.shields.io/badge/version-0.1-blue.svg)
 
 ## Motivation :crystal_ball:
+
+# Collecting Data
+
+### Tools
+
+- [import.io](https://www.import.io/) - web-based platform for extracting data from websites without writing any code
 
 ## Blogs
 
@@ -18,8 +24,4 @@
 - Hotjar
 - Google Analytics
 - MixPanel
-
-## Scraping Data
-
-- import.io
 
