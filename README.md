@@ -24,11 +24,21 @@ Our goal is to educate the collective by pulling together resources to ensure th
 - Targeting the right consumers.
 - Messaging audiences with relevant messages.
 
-# Collecting Data
+# Collecting data
+
+> You don't have to be a programmer or data scientists to get the data you need
 
 ### Tools
 
 - [import.io](https://www.import.io/) - web-based platform for extracting data from websites without writing any code
+
+# Working with data
+
+### Tools
+
+- [Google Sheets](https://www.google.com/sheets/about/) - Create, edit, and collaborate wherever you are. For free
+
+# Stay in the loop
 
 ## Blogs
 
