@@ -31,6 +31,10 @@ Our goal is to educate the collective by pulling together resources to ensure th
 ### Tools
 
 - [import.io](https://www.import.io/) - web-based platform for extracting data from websites without writing any code
+- segment.io
+- Hotjar
+- Google Analytics
+- MixPanel
 
 # Working with data
 
@@ -40,18 +44,7 @@ Our goal is to educate the collective by pulling together resources to ensure th
 
 # Stay in the loop
 
-## Blogs
+### Blogs
 
 - [Nielsen](http://www.nielsen.com/us/en.html) - What People Watch, Listen To and Buy
-
-## People
-
-## Reports
-
-## Analytics
-
-- segment.io
-- Hotjar
-- Google Analytics
-- MixPanel
 
